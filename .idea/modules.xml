@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvancedAssignments.iml" filepath="$PROJECT_DIR$/AdvancedAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntermediateAssignment_Missed/IntermediateAssignment_Missed.iml" filepath="$PROJECT_DIR$/IntermediateAssignment_Missed/IntermediateAssignment_Missed.iml" />
+    </modules>
+  </component>
+</project>
